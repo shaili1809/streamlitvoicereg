@@ -18,3 +18,4 @@ This application, "Shaili's GPT", allows users to interact with a speech-to-text
 This tool leverages modern web technologies to create an accessible and intuitive experience for users. Perfect for voice-command-driven GPT applications!
 
 
+![Screenshot 2024-11-16 103353](https://github.com/user-attachments/assets/e4c11182-e581-4d10-9e0e-9bcc711ead71)
